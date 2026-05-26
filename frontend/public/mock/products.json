@@ -1,0 +1,238 @@
+[
+  {
+    "id": 1001,
+    "name": "Classic Salted Banana Chips",
+    "slug": "classic-salted-banana-chips",
+    "permalink": "https://example.com/product/classic-salted-banana-chips",
+    "type": "variable",
+    "status": "publish",
+    "featured": true,
+    "catalog_visibility": "visible",
+    "description": "<p>Authentic Kerala banana chips sliced thin and fried to a golden crisp in premium coconut oil with the perfect touch of salt.</p>",
+    "short_description": "<p>Crispy, golden, and perfectly salted.</p>",
+    "sku": "PZ-CS-VAR",
+    "price": "99",
+    "regular_price": "120",
+    "sale_price": "99",
+    "on_sale": true,
+    "purchasable": true,
+    "total_sales": 1250,
+    "manage_stock": true,
+    "stock_quantity": 500,
+    "stock_status": "instock",
+    "average_rating": "4.8",
+    "rating_count": 124,
+    "related_ids": [1002, 1003],
+    "categories": [
+      { "id": 10, "name": "Classic Flavors", "slug": "classic-flavors" }
+    ],
+    "images": [
+      {
+        "id": 2001,
+        "src": "/images/classic_salted_chips_1779802123724.png",
+        "name": "Classic Salted",
+        "alt": "Classic Salted Banana Chips Packet"
+      }
+    ],
+    "attributes": [
+      {
+        "id": 1,
+        "name": "Weight",
+        "position": 0,
+        "visible": true,
+        "variation": true,
+        "options": ["100g", "250g", "500g"]
+      }
+    ],
+    "variations": [10011, 10012, 10013]
+  },
+  {
+    "id": 1002,
+    "name": "Spicy Masala Banana Chips",
+    "slug": "spicy-masala-banana-chips",
+    "permalink": "https://example.com/product/spicy-masala-banana-chips",
+    "type": "variable",
+    "status": "publish",
+    "featured": true,
+    "catalog_visibility": "visible",
+    "description": "<p>A fiery blend of Kerala spices coats our signature crunchy banana chips. Perfect for the spice lovers!</p>",
+    "short_description": "<p>Bold, spicy, and deeply satisfying.</p>",
+    "sku": "PZ-SM-VAR",
+    "price": "109",
+    "regular_price": "109",
+    "sale_price": "",
+    "on_sale": false,
+    "purchasable": true,
+    "total_sales": 890,
+    "manage_stock": true,
+    "stock_quantity": 300,
+    "stock_status": "instock",
+    "average_rating": "4.7",
+    "rating_count": 95,
+    "related_ids": [1001, 1004],
+    "categories": [
+      { "id": 11, "name": "Spicy Flavors", "slug": "spicy-flavors" }
+    ],
+    "images": [
+      {
+        "id": 2002,
+        "src": "/images/spicy_masala_chips_1779802140858.png",
+        "name": "Spicy Masala",
+        "alt": "Spicy Masala Banana Chips Packet"
+      }
+    ],
+    "attributes": [
+      {
+        "id": 1,
+        "name": "Weight",
+        "position": 0,
+        "visible": true,
+        "variation": true,
+        "options": ["100g", "250g", "500g"]
+      }
+    ],
+    "variations": [10021, 10022, 10023]
+  },
+  {
+    "id": 1003,
+    "name": "Peri Peri Banana Chips",
+    "slug": "peri-peri-banana-chips",
+    "permalink": "https://example.com/product/peri-peri-banana-chips",
+    "type": "variable",
+    "status": "publish",
+    "featured": true,
+    "catalog_visibility": "visible",
+    "description": "<p>A modern twist on a classic snack. The tangy and spicy kick of Peri Peri meets the crunch of authentic Kerala banana chips.</p>",
+    "short_description": "<p>Tangy, spicy, and totally addictive.</p>",
+    "sku": "PZ-PP-VAR",
+    "price": "119",
+    "regular_price": "119",
+    "sale_price": "",
+    "on_sale": false,
+    "purchasable": true,
+    "total_sales": 1500,
+    "manage_stock": true,
+    "stock_quantity": 450,
+    "stock_status": "instock",
+    "average_rating": "4.9",
+    "rating_count": 210,
+    "related_ids": [1002, 1004],
+    "categories": [
+      { "id": 11, "name": "Spicy Flavors", "slug": "spicy-flavors" },
+      { "id": 12, "name": "Fusion", "slug": "fusion" }
+    ],
+    "images": [
+      {
+        "id": 2003,
+        "src": "/images/peri_peri_chips_1779802159308.png",
+        "name": "Peri Peri",
+        "alt": "Peri Peri Banana Chips Packet"
+      }
+    ],
+    "attributes": [
+      {
+        "id": 1,
+        "name": "Weight",
+        "position": 0,
+        "visible": true,
+        "variation": true,
+        "options": ["100g", "250g", "500g"]
+      }
+    ],
+    "variations": [10031, 10032, 10033]
+  },
+  {
+    "id": 1004,
+    "name": "Black Pepper Crunch",
+    "slug": "black-pepper-crunch",
+    "permalink": "https://example.com/product/black-pepper-crunch",
+    "type": "variable",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "<p>Seasoned with freshly ground Tellicherry black pepper for a warm, earthy heat.</p>",
+    "short_description": "<p>Earthy, warm, and peppery.</p>",
+    "sku": "PZ-BP-VAR",
+    "price": "109",
+    "regular_price": "109",
+    "sale_price": "",
+    "on_sale": false,
+    "purchasable": true,
+    "total_sales": 640,
+    "manage_stock": true,
+    "stock_quantity": 200,
+    "stock_status": "instock",
+    "average_rating": "4.6",
+    "rating_count": 78,
+    "related_ids": [1001, 1002],
+    "categories": [
+      { "id": 10, "name": "Classic Flavors", "slug": "classic-flavors" }
+    ],
+    "images": [
+      {
+        "id": 2004,
+        "src": "/images/black_pepper_chips_1779802184002.png",
+        "name": "Black Pepper",
+        "alt": "Black Pepper Banana Chips Packet"
+      }
+    ],
+    "attributes": [
+      {
+        "id": 1,
+        "name": "Weight",
+        "position": 0,
+        "visible": true,
+        "variation": true,
+        "options": ["100g", "250g", "500g"]
+      }
+    ],
+    "variations": [10041, 10042, 10043]
+  },
+  {
+    "id": 1005,
+    "name": "Sweet Jaggery Chips",
+    "slug": "sweet-jaggery-chips",
+    "permalink": "https://example.com/product/sweet-jaggery-chips",
+    "type": "variable",
+    "status": "publish",
+    "featured": true,
+    "catalog_visibility": "visible",
+    "description": "<p>Also known as Sarkara Varatti, these thick-cut plantain chips are coated in pure unrefined jaggery, cardamom, and dry ginger.</p>",
+    "short_description": "<p>Sweet, aromatic, and traditional.</p>",
+    "sku": "PZ-SJ-VAR",
+    "price": "149",
+    "regular_price": "149",
+    "sale_price": "",
+    "on_sale": false,
+    "purchasable": true,
+    "total_sales": 1120,
+    "manage_stock": true,
+    "stock_quantity": 150,
+    "stock_status": "instock",
+    "average_rating": "4.9",
+    "rating_count": 180,
+    "related_ids": [1001],
+    "categories": [
+      { "id": 13, "name": "Sweet", "slug": "sweet" }
+    ],
+    "images": [
+      {
+        "id": 2005,
+        "src": "/images/sweet_jaggery_chips_1779802200883.png",
+        "name": "Sweet Jaggery",
+        "alt": "Sweet Jaggery Banana Chips Packet"
+      }
+    ],
+    "attributes": [
+      {
+        "id": 1,
+        "name": "Weight",
+        "position": 0,
+        "visible": true,
+        "variation": true,
+        "options": ["200g", "500g"]
+      }
+    ],
+    "variations": [10051, 10052]
+  }
+]

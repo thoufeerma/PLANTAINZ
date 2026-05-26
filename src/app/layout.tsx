@@ -18,8 +18,9 @@ const bebasNeue = Bebas_Neue({
 });
 
 export const metadata: Metadata = {
-  title: "Plantainz | Premium Kerala Banana Chips",
-  description: "Authentic banana chips crafted with bold spices, premium oils, and irresistible crunch.",
+  metadataBase: new URL("https://plantainz.vercel.app"),
+  title: "Plantainz | Authentic Kerala Banana Chips",
+  description: "Experience the true crunch of Kerala with our premium, authentically spiced banana chips. Plantainz brings you traditional flavors with a modern twist.",
 };
 
 export default function RootLayout({
